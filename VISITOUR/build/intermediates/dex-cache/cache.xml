@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\raigekhi\Desktop\Visitour\VISITOUR\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="C:\Users\raigekhi\Desktop\Visitour\VISITOUR\app\build\intermediates\pre-dexed\release\com.android.support-support-fragment-24.2.1_9424b239d88a945038d5487401e56cfcd7e312ea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\raigekhi\Desktop\Visitour\VISITOUR\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c61641e333fa88da21758bab8cc28ee16604b05f">
+        <dex dex="C:\Users\raigekhi\Desktop\Visitour\VISITOUR\app\build\intermediates\pre-dexed\release\com.google.firebase-firebase-common-9.8.0_0879330e53476a3979e3e21fbe81492f8c320059.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\raigekhi\Desktop\Visitour\VISITOUR\app\build\intermediates\exploded-aar\com.yarolegovich\lovely-dialog\1.0.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="736afb22391a31d5fb14d282179c06c5649c46fe">
+        <dex dex="C:\Users\raigekhi\Desktop\Visitour\VISITOUR\app\build\intermediates\pre-dexed\release\com.yarolegovich-lovely-dialog-1.0.4_18dbb6e2e47c6450d169b3c0e1d9c2970eb09fcd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\raigekhi\Desktop\Visitour\VISITOUR\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="C:\Users\raigekhi\Desktop\Visitour\VISITOUR\app\build\intermediates\pre-dexed\release\internal_impl-25.0.1_294785a21ad57ade2fa2839109b3cedda70fe7ed.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\raigekhi\Desktop\Visitour\VISITOUR\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bf2e1838e4428616c1aa26edf43de72b5b99bf84">
+        <dex dex="C:\Users\raigekhi\Desktop\Visitour\VISITOUR\app\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-tasks-9.8.0_ae08ac7d4aa606c2a7f9337b7728cb741082355f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\raigekhi\Desktop\Visitour\VISITOUR\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="C:\Users\raigekhi\Desktop\Visitour\VISITOUR\app\build\intermediates\pre-dexed\release\com.android.support-support-core-utils-24.2.1_228ed246f61475ce5b7e91b1a99eeac878686622.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\raigekhi\Desktop\Visitour\VISITOUR\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-module\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3f8f779a22cbb4c4d0759467a4f1011bb5252970">
+        <dex dex="C:\Users\raigekhi\Desktop\Visitour\VISITOUR\app\build\intermediates\pre-dexed\release\com.google.firebase-firebase-auth-module-9.8.0_4dd5ac53b367d0c21637a8534c4eea1fe06dd6a4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\raigekhi\Desktop\Visitour\VISITOUR\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5f47ede9561595584dca71104baa0fecb36dda87">
+        <dex dex="C:\Users\raigekhi\Desktop\Visitour\VISITOUR\app\build\intermediates\pre-dexed\release\com.google.firebase-firebase-database-connection-9.8.0_07a91266db5d5bff02fac9ae10153c57ece5e7b9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\raigekhi\Desktop\Visitour\VISITOUR\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7e92aadd0697922316d1395c1887a23aebec640a">
+        <dex dex="C:\Users\raigekhi\Desktop\Visitour\VISITOUR\app\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-base-9.8.0_c27e77bd02e6b04046415c8e40716dcb3d0fa61b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\raigekhi\Desktop\Visitour\VISITOUR\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="C:\Users\raigekhi\Desktop\Visitour\VISITOUR\app\build\intermediates\pre-dexed\release\internal_impl-24.2.1_00a1fd19514f30356fdb1d1586e9d4b07596a0ef.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\raigekhi\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.1\support-annotations-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="C:\Users\raigekhi\Desktop\Visitour\VISITOUR\app\build\intermediates\pre-dexed\release\support-annotations-25.0.1_492e9eb5c81ff29673dfedfb078726267a32aebc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\raigekhi\Desktop\Visitour\VISITOUR\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="C:\Users\raigekhi\Desktop\Visitour\VISITOUR\app\build\intermediates\pre-dexed\release\internal_impl-24.2.1_70ce69bc7c3c62e15fe71264036b44a6e9ada43d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\raigekhi\Desktop\Visitour\VISITOUR\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="15e59454416c6341bd3ed2533b585cd340682dd1">
+        <dex dex="C:\Users\raigekhi\Desktop\Visitour\VISITOUR\app\build\intermediates\pre-dexed\release\com.google.firebase-firebase-auth-9.8.0_4548c3bc71e6f676bebb814c0131d56069d43721.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\raigekhi\Desktop\Visitour\VISITOUR\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1108575c7dc7b7f5b378b3290ac90de81a9b8830">
+        <dex dex="C:\Users\raigekhi\Desktop\Visitour\VISITOUR\app\build\intermediates\pre-dexed\release\com.android.support-cardview-v7-25.0.1_eb9393ed3e289b608f53e042de46688dabb2a715.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\raigekhi\Desktop\Visitour\VISITOUR\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="C:\Users\raigekhi\Desktop\Visitour\VISITOUR\app\build\intermediates\pre-dexed\release\com.android.support-support-vector-drawable-24.2.1_96795ca3088bb46d26dc6810723dcdc22f88e511.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\raigekhi\Desktop\Visitour\VISITOUR\app\build\intermediates\exploded-aar\com.android.support\design\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="C:\Users\raigekhi\Desktop\Visitour\VISITOUR\app\build\intermediates\pre-dexed\release\com.android.support-design-24.2.1_f9b5fdc06ebbe4be80a4153214173ed28d8c4b97.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\raigekhi\Desktop\Visitour\VISITOUR\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="C:\Users\raigekhi\Desktop\Visitour\VISITOUR\app\build\intermediates\pre-dexed\release\com.android.support-appcompat-v7-24.2.1_d2eb553321cbbe11b5fc998529f2b4d71abc3c91.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\raigekhi\Desktop\Visitour\VISITOUR\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9f6d236bac26d02b410e4ee186ba517ace5ee661">
+        <dex dex="C:\Users\raigekhi\Desktop\Visitour\VISITOUR\app\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-basement-9.8.0_c63384a734d979aedbd4b85fad3474928195bdd5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\raigekhi\Desktop\Visitour\VISITOUR\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="C:\Users\raigekhi\Desktop\Visitour\VISITOUR\app\build\intermediates\pre-dexed\release\com.android.support-recyclerview-v7-24.2.1_17e00f0f882fcef16b833f272f34aa0f7b3d12a4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\raigekhi\Desktop\Visitour\VISITOUR\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\Users\raigekhi\Desktop\Visitour\VISITOUR\app\build\intermediates\pre-dexed\release\internal_impl-24.2.1_bba1d47a3cd08e2ff3e20772b2dfc6d8ba7b46f9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\raigekhi\Desktop\Visitour\VISITOUR\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6b6f292b8b951dcf2ecf2b20853e3eabc7d65c48">
+        <dex dex="C:\Users\raigekhi\Desktop\Visitour\VISITOUR\app\build\intermediates\pre-dexed\release\com.google.firebase-firebase-iid-9.8.0_c6a0af47a3a3f937b7e006424ebf4f641c5a9831.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\raigekhi\Desktop\Visitour\VISITOUR\app\build\intermediates\exploded-aar\de.hdodenhof\circleimageview\2.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a2af9c72ccaa4c5c049b500ca6ea664a4ce1f7d4">
+        <dex dex="C:\Users\raigekhi\Desktop\Visitour\VISITOUR\app\build\intermediates\pre-dexed\release\de.hdodenhof-circleimageview-2.1.0_9c28330c3da9e1a96af97aa23886c9b13311c557.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\raigekhi\Desktop\Visitour\VISITOUR\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="190a642ba16d1421296a4d794606279b80039c59">
+        <dex dex="C:\Users\raigekhi\Desktop\Visitour\VISITOUR\app\build\intermediates\pre-dexed\release\com.google.firebase-firebase-analytics-impl-9.8.0_287ad3be2a7ed6bf434a573f5caa721a7fc7cf20.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\raigekhi\Desktop\Visitour\VISITOUR\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="C:\Users\raigekhi\Desktop\Visitour\VISITOUR\app\build\intermediates\pre-dexed\release\com.android.support-support-media-compat-24.2.1_561b9b59a90b35f185df3687ca27e6e8d832b0f7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\raigekhi\Desktop\Visitour\VISITOUR\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9ff04cc3470178a44512624036751a803418c2ca">
+        <dex dex="C:\Users\raigekhi\Desktop\Visitour\VISITOUR\app\build\intermediates\pre-dexed\release\com.google.firebase-firebase-analytics-9.8.0_5722b0ea8bd84418d89f6e29d42f4b44248b2d59.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\raigekhi\Desktop\Visitour\VISITOUR\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="03df48d3713661d66ad024b1e406259a4c26fcac">
+        <dex dex="C:\Users\raigekhi\Desktop\Visitour\VISITOUR\app\build\intermediates\pre-dexed\release\com.google.firebase-firebase-database-9.8.0_0a8f89f162c1ef6b8e93ddc5e2803842f31e06d2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\raigekhi\Desktop\Visitour\VISITOUR\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="C:\Users\raigekhi\Desktop\Visitour\VISITOUR\app\build\intermediates\pre-dexed\release\internal_impl-24.2.1_2e81256a802b16f5413b0a571bc503335df25b49.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\raigekhi\Desktop\Visitour\VISITOUR\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\Users\raigekhi\Desktop\Visitour\VISITOUR\app\build\intermediates\pre-dexed\release\com.android.support-support-core-ui-24.2.1_361f0280dca16f1a09367fcb880aea9415c9bcaf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\raigekhi\Desktop\Visitour\VISITOUR\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="C:\Users\raigekhi\Desktop\Visitour\VISITOUR\app\build\intermediates\pre-dexed\release\com.android.support-support-compat-25.0.1_3d0143db23cc442005ed172d6b7e9db6867a5330.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\raigekhi\Desktop\Visitour\VISITOUR\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="C:\Users\raigekhi\Desktop\Visitour\VISITOUR\app\build\intermediates\pre-dexed\release\com.android.support-animated-vector-drawable-24.2.1_7ccabbf6ccb17e13214c6a0dec5a47854a84dc4e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\raigekhi\Desktop\Visitour\VISITOUR\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-common\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4438b1a7848a7c571122ba618aa1304514aabee6">
+        <dex dex="C:\Users\raigekhi\Desktop\Visitour\VISITOUR\app\build\intermediates\pre-dexed\release\com.google.firebase-firebase-auth-common-9.8.0_db3d7cf0d920bb4219be8a3d51ea0438fc1858bd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\raigekhi\Desktop\Visitour\VISITOUR\app\build\intermediates\exploded-aar\com.android.support\percent\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b0e10a526509572537612820f2e46b7436f6c188">
+        <dex dex="C:\Users\raigekhi\Desktop\Visitour\VISITOUR\app\build\intermediates\pre-dexed\release\com.android.support-percent-25.0.1_14dabdb1d291852c08191744e8eeb27412f19f28.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\raigekhi\Desktop\Visitour\VISITOUR\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\raigekhi\Desktop\Visitour\VISITOUR\app\build\intermediates\pre-dexed\release\com.android.support-support-v4-24.2.1_b0691504c744a25e1a71f77baa5f32de95e2e986.jar" />
+    </item>
+
+</items>
